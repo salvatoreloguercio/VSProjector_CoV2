@@ -17,9 +17,9 @@
       "metadataPath": "oss_data/VSP_emb_29g_CoV2_meta.tsv",
       "sprite": {
           "imagePath": "oss_data/sprite_image_29g_70x70.png",
-          "singleImageDim": [70, 60]
+          "singleImageDim": [70, 70]
       }
-    }
+    },
     {
       "tensorName": "SARS-CoV-2 proteins - 140x140",
       "tensorShape": [29, 2048],
@@ -27,7 +27,7 @@
       "metadataPath": "oss_data/VSP_emb_29g_CoV2_meta.tsv",
       "sprite": {
           "imagePath": "oss_data/sprite_image_29g_140x140.png",
-          "singleImageDim": [70, 60]
+          "singleImageDim": [140, 140]
       }
     } 
   ],
