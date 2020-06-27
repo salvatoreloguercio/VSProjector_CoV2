@@ -19,7 +19,7 @@
           "imagePath": "oss_data/sprite_image_29g_70x70.png",
           "singleImageDim": [70, 70]
       }
-    }
+    },
     {
       "tensorName": "SARS-CoV-2 proteins - 140x140",
       "tensorShape": [29, 2048],
