@@ -11,13 +11,13 @@
       }
     },
     {
-      "tensorName": "SARS-CoV-2 proteins - 70x70",
+      "tensorName": "SARS-CoV-2 proteins - onerow",
       "tensorShape": [29, 2048],
       "tensorPath": "oss_data/VSP_emb_29g_CoV2.tsv",
       "metadataPath": "oss_data/VSP_emb_29g_CoV2_meta.tsv",
       "sprite": {
-          "imagePath": "oss_data/sprite_image_29g_70x70.png",
-          "singleImageDim": [70, 70]
+          "imagePath": "oss_data/sprite_image_29g_onerow.png",
+          "singleImageDim": [140,140]
       }
     },
     {
