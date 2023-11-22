@@ -1,34 +1,31 @@
 {
   "embeddings": [
     {
-      "tensorName": "SARS-CoV-2 29 proteins",
-      "tensorShape": [29, 2048],
-      "tensorPath": "oss_data/VSP_emb_29g_CoV2.tsv",
-      "metadataPath": "oss_data/VSP_emb_29g_CoV2_meta.tsv",
-      "sprite": {
-          "imagePath": "oss_data/sprite_image_29g_onerow.png",
-          "singleImageDim": [140,140]
-      }
+      "tensorName": "MESA_NWD101724_198_CAD_regions",
+      "tensorShape": [
+        198,
+        256
+      ],
+      "tensorPath": "oss_data/NWD101724_CAD_emb.tsv",
+      "metadataPath": "oss_data/NWD101724_CAD_emb_meta.tsv"
     },
     {
-      "tensorName": "SARS-CoV-2 27 proteins",
-      "tensorShape": [27, 2048],
-      "tensorPath": "oss_data/VSP_emb_27g_CoV2.tsv",
-      "metadataPath": "oss_data/VSP_emb_27g_CoV2_meta.tsv",
-      "sprite": {
-          "imagePath": "oss_data/sprite_image_27g_onerow.png",
-          "singleImageDim": [140,140]
-      }
+      "tensorName": "MESA_10_subj_emb_CAD",
+      "tensorShape": [
+        10,
+        256
+      ],
+      "tensorPath": "oss_data/MESA_10_subj_emb.tsv",
+      "metadataPath": "oss_data/MESA_10_meta.tsv"
     },
     {
-      "tensorName": "SARS-CoV-2 28 proteins",
-      "tensorShape": [28, 2048],
-      "tensorPath": "oss_data/VSP_emb_28g_CoV2.tsv",
-      "metadataPath": "oss_data/VSP_emb_28g_CoV2_meta.tsv",
-      "sprite": {
-          "imagePath": "oss_data/sprite_image_28g_onerow.png",
-          "singleImageDim": [140,140]
-      }
+      "tensorName": "MESA_10_subj_emb_1980_CAD_regions",
+      "tensorShape": [
+        1980,
+        256
+      ],
+      "tensorPath": "oss_data/MESA_10_all.tsv",
+      "metadataPath": "oss_data/MESA_10_all_meta.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"

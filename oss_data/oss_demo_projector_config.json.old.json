@@ -1,0 +1,35 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "SARS-CoV-2 29 proteins",
+      "tensorShape": [29, 2048],
+      "tensorPath": "oss_data/VSP_emb_29g_CoV2.tsv",
+      "metadataPath": "oss_data/VSP_emb_29g_CoV2_meta.tsv",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image_29g_onerow.png",
+          "singleImageDim": [140,140]
+      }
+    },
+    {
+      "tensorName": "SARS-CoV-2 27 proteins",
+      "tensorShape": [27, 2048],
+      "tensorPath": "oss_data/VSP_emb_27g_CoV2.tsv",
+      "metadataPath": "oss_data/VSP_emb_27g_CoV2_meta.tsv",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image_27g_onerow.png",
+          "singleImageDim": [140,140]
+      }
+    },
+    {
+      "tensorName": "SARS-CoV-2 28 proteins",
+      "tensorShape": [28, 2048],
+      "tensorPath": "oss_data/VSP_emb_28g_CoV2.tsv",
+      "metadataPath": "oss_data/VSP_emb_28g_CoV2_meta.tsv",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image_28g_onerow.png",
+          "singleImageDim": [140,140]
+      }
+    }
+  ],
+  "modelCheckpointPath": "Demo datasets"
+}
