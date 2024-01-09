@@ -1,6 +1,15 @@
 {
   "embeddings": [
     {
+      "tensorName": "ARIC 2K subjects CAD",
+      "tensorShape": [
+        2321,
+        256
+      ],
+      "tensorPath": "oss_data/ARIC_2K_subj_emb.tsv",
+      "metadataPath": "oss_data/ARIC_2K_meta.tsv"
+    },
+    {
       "tensorName": "MESA_NWD101724_198_CAD_regions",
       "tensorShape": [
         198,
